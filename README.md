@@ -1,4 +1,4 @@
-- Hey there, I’m Sa-lman
+- Hey there, I’m Salman
 
 <!---
 Sa-lman/Sa-lman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
